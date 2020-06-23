@@ -1,0 +1,16 @@
+{
+  "despesas": [
+    {
+      "setor": "Marketing",
+      "price": "3.50",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "setor": "RH",
+      "price": "1208",
+      "id": 1
+    }
+  ]
+}
