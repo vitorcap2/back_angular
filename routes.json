@@ -1,5 +1,5 @@
 {
   "/api/": "/",
-  "/products/:id": "/:resource/:id",
-  "/despesas/:id": "/:resource/:id"
+  "/products/:id": "/products/:id",
+  "/despesas/:id": "/despesas/:id"
 }
